@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Programmer From India</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+## 🔗 About me
 - 👋 Hi, I’m @K1N3-L0K1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
