@@ -1,8 +1,9 @@
 ![](https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/header.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm K1N3-L0K1</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
-</br>
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 - 👋 Hi, I’m @K1N3-L0K1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
